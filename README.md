@@ -23,3 +23,12 @@ This project provides a web-based version of the game that you can play in your 
 - Detects win and draw conditions.
 - Simple and clean user interface.
 
+## Usage
+
+1. Open the game in your web browser.
+2. Click on any cell in the Tic Tac Toe grid to make your move.
+3. Players take turns clicking empty cells to place their marks (X or O).
+4. The game will automatically detect when a player wins or if the game ends in a draw.
+5. To start a new game, simply refresh the page.
+
+
